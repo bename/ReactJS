@@ -1,0 +1,154 @@
+.containerCallers{
+    position: relative;
+    width: 400px;
+    height: 600px;
+    background: teal;
+    margin: 0 0 0 27%;
+}
+.containerCalls{
+    position: absolute;
+    width: 400px;
+    height: 600px;
+    background: teal;
+    left: 50%;
+    top:11.5%;
+
+}
+.nextButton{
+    position: absolute;
+    height: 30px;
+    width: 100px;
+    top: 85%;
+    left: 60%;
+    font-size: 15px;
+
+}
+.firstNameTitle{
+    position: absolute;
+    height: 15px;
+    width: 100px;
+    color: darkorange;
+    font-size: 15px;
+    font-weight: bold;
+    left: 15%;
+    top:9.5%;
+}
+.lastNameTitle{
+    position: absolute;
+    height: 15px;
+    width: 100px;
+    color: darkorange;
+    font-size: 15px;
+    font-weight: bold;
+    left: 40%;
+    top:9.5%;
+}
+
+.LastNamesCol{
+    position: relative;
+    margin-left: 500px;
+}
+
+.tableHead{
+    position: absolute;
+    color: darkorange;
+    font-size: 19px;
+    font-weight: bold;
+    top: -7%;
+    left: -17px;
+}
+
+.loadData{
+    position: absolute;
+    height: 30px;
+    width: 100px;
+    top: 85%;
+    left: 50px;
+    font-size: 15px;
+
+}
+
+.searchButton{
+    position: absolute;
+    height: 30px;
+    width: 100px;
+    left: 57%;
+    top: 2.5%;
+    font-size: 15px;
+}
+.searchField{
+    position: relative;
+    margin: 15px 0 15px 15px;
+    left: 50px;
+    width: 150px;
+    height: 23px;
+    font-size: 15px;
+}
+.callsTitle{
+    position: absolute;
+    height: 15px;
+    width: 300px;
+    color: coral;
+    font-size: 22px;
+    font-weight: bold;
+    left: 27%;
+    top:0%;
+}
+
+.callersListTable{
+    position: relative;
+    margin: 57px 0 0 59px;
+    width: 283px;
+    top: -14px;
+}
+
+.callsListTable{
+    position: relative;
+    margin: 70px 0 0 59px;
+    width: 283px;
+    top: 6%;
+}
+
+.id{
+    position: absolute;
+    height: 15px;
+    width: 100px;
+    color: darkorange;
+    font-size: 15px;
+    font-weight: bold;
+    left: 17%;
+    top:10%;
+}
+
+.pID{
+    position: absolute;
+    height: 15px;
+    width: 100px;
+    color: darkorange;
+    font-size: 15px;
+    font-weight: bold;
+    left: 25%;
+    top:10%;
+}
+
+.time{
+    position: absolute;
+    height: 15px;
+    width: 100px;
+    color: darkorange;
+    font-size: 15px;
+    font-weight: bold;
+    left: 40%;
+    top:10%;
+}
+
+.durationInSeconds{
+    position: absolute;
+    height: 15px;
+    width: 100px;
+    color: darkorange;
+    font-size: 15px;
+    font-weight: bold;
+    left: 73%;
+    top:10%;
+}
